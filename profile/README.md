@@ -20,7 +20,3 @@ Copyright © 2024 National High School Association of Engineering and Architectu
 - [@masonhood](https://www.github.com/masonhood) - | Founder & President  | - masonhood@nhsaea.org 
 
 " Sometimes with a small team, you first have to dream big, and then work big. "
-
-
-![Logo](https://i.imgur.com/cuHSX3v_d.webp?maxwidth=1520&fidelity=grand)
-
